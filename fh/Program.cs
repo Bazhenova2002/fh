@@ -10,6 +10,7 @@ namespace fh
     {
         static void Main(string[] args)
         {
+            Console.WriteLine
         }
     }
 }
